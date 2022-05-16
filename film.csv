@@ -1,10 +1,9 @@
-Nom,Annee,Categorie,Realisateur
-Harry Potter à l'école des sorciers,2001,Fantastique,Chris Colombus
-21 Jump Street,2012,Comédie,Phil Lord
-Scream,1996,Horreur,Wes Craven
-CRUSH,2022,Romance,Comedie Dramatique,Drame Comédie,Sammi Cohen
-ECRIRE POUR EXISTER,2007,Drame,Richard LaGravenese
-PARASITE,2019,Thriller,Bong Joon Ho
-Django_Unchained;2012;western;Quentin_Tarantino
-Rien_a_foutre;2021;drame,comédie;Emmanuel Marre,Julie Lecoustre
-Parasite;2019;thriller,Bong_Joon_Ho
+Nom;Annee;Categorie;Realisateur
+Harry Potter à l'école des sorciers;2001;Fantastique;Chris Colombus
+21 Jump Street;2012;Comédie;Phil Lord
+Scream;1996;Horreur;Wes Craven
+Crush;2022;Romance;Comédie Dramatique,Drame,Comédie;Sammi Cohen
+Ecrire pour exister;2007;Drame;Richard LaGravenese
+Parasite;2019;Thriller;Bong Joon Ho
+Django Unchained;2012;Western;Quentin Tarantino
+Rien à foutre;2021;Drame,Comédie;Emmanuel Marre,Julie Lecoustre
