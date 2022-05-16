@@ -1,7 +1,9 @@
-Nom,Annee,Categorie,Realisateur
-Harry Potter à l'école des sorciers,2001,Fantastique,Chris Colombus
-21 Jump Street,2012,Comédie,Phil Lord
-Scream,1996,Horreur,Wes Craven
-Le crime de l'orient express, 2017, policier, keneth branagh
-La plage, 2000, drame, danny boyle
-Shutter island, 2010, drame psychologique, martin scorsese
+Nom;Annee;Categorie;Realisateur
+Harry Potter à l'école des sorciers;2001;Fantastique;Chris Colombus
+21 Jump Street;2012;Comédie;Phil Lord
+Scream;1996;Horreur;Wes Craven
+Crush;2022;Romance;Comédie Dramatique,Drame,Comédie;Sammi Cohen
+Ecrire pour exister;2007;Drame;Richard LaGravenese
+Parasite;2019;Thriller;Bong Joon Ho
+Django Unchained;2012;Western;Quentin Tarantino
+Rien à foutre;2021;Drame,Comédie;Emmanuel Marre,Julie Lecoustre
